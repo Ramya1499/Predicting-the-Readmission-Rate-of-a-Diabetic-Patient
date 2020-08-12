@@ -6,6 +6,6 @@ The dataset folder includes all the data files used for this project along with 
 
 The datasets have been obtained from the UCI Repository.
 
-I have tried doing the analysis in 2 different ways and the respective R files have been uploaded as well.
+The respective R Analysis files have been uploaded as well.
 
 Additional analysis can be done by acquiring more data to predict the target feature and also involves more data preprocessing. 
